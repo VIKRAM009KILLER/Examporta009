@@ -1,0 +1,43 @@
+
+center
+{
+   text-align: center;
+    color:rgb(255, 166, 0);
+    background-color:gainsboro;
+    padding: 20px 15px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+.sidebar 
+{
+    margin: 0;
+    padding: 15px;
+    width: 200px;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 80%;
+    width: 15%;
+    text-decoration: none;
+    font-size: 20px;
+    overflow: auto;
+}
+.sidebar a
+{
+    text-decoration: none;
+    color: red;
+    display: block;
+    padding: 16px;
+}
+.carousel slide
+{
+    position: fixed;
+    height: 10%;
+    width: 50rm;
+}
+
+footer
+{
+    color: black;
+    background-color: aqua;
+    margin-bottom: 100px;
+    text-align: center;
+}
